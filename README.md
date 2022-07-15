@@ -6,4 +6,4 @@
 1.  Creating a Custom Diet List
 2.  Making an Appointment from a Dietitian
 3.  Calculations in the Field of Health
-4.  Keeping Water and Sleep Meters
+4.  Keeping Water and Sleep Trackers
