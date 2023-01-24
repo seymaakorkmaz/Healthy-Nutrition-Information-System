@@ -1,6 +1,6 @@
-### Healthy-Nutrition-Information-System
+### Healthy Nutrition Information System
 
-##### - System Analysis course term project.
+#### - System Analysis course term project.
 
  - The modules that can be used within the scope of the project are listed below.
  1.  Creating a Custom Diet List
